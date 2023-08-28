@@ -1,0 +1,15 @@
+{
+  "name": "izerti_project",
+  "version": "1.0.0",
+  "description": "Este proyecto contiene pruebas automatizadas utilizando Cypress para verificar la funcionalidad de la página web de OYSHO.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
