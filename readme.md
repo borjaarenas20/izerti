@@ -25,11 +25,11 @@ npx cypress open
 
 Este proyecto incluye las siguientes pruebas:
 
-- `test logon url`: Verifica la página de inicio de sesión en el sitio web de OYSHO.
+- Verifica la página de inicio de sesión en el sitio web de OYSHO.
 - Verifica el título de la página.
 - Simula un inicio de sesión.
 
 
 ## Observaciones
-- Puedes ajustar los valores de `url`, `title`, `user`, y `pass` en las pruebas según sea necesario.
+- Se puede ajustar los valores de `url`, `title`, `user`, y `pass` según sea necesario en el testdata.json en la carpeta fixtures.
 
